@@ -1,1 +1,11 @@
+<<<<<<< HEAD
 /build/
+=======
+<<<<<<< HEAD
+node_modules/
+.settings/
+bin/
+=======
+/build/
+>>>>>>> 0718c68ce36e1f151ba531abe4fd34c49bbbed7c
+>>>>>>> 5b03eeb358e3fb32749458027002345bfa956f56
