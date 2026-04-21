@@ -8,7 +8,7 @@ public class GetEmployeeUpdate {
     public static void main(String[] args) {
         try {
             Connection connection = DriverManager.getConnection(
-                "jdbc:mysql://localhost:3306/24WH1A0577?serverTimezone=UTC", "root", "12345");
+                "jdbc:mysql://localhost:3306/24wh10577?serverTimezone=UTC", "root", "1234");
 
             Statement statement = connection.createStatement();
             String updateQuery = "UPDATE employee SET salary = 900000 WHERE empid = 3";
